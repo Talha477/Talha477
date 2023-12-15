@@ -1,15 +1,5 @@
- I'm [Your Name], currently diving into the world of Computer Sciences at the University of South Wales. 🎓 Originally from the charming town of Pakpattan in Pakistan, my academic journey includes matriculation at the esteemed Oxford Education System and FSC at the prestigious Punjab Group of Colleges.
-
-💻 Currently on the academic grind, exploring the intricacies of computer sciences and embracing the challenges it offers.
-
-🚀 *What I'm Doing:* Pursuing a degree in Computer Sciences at the University of South Wales.
-
-🌍 *Background:* Hailing from Pakpattan, Pakistan, with academic roots in top-notch institutions like Oxford Education System and Punjab Group of Colleges.
-
-🔧 *Skill Set:* [Your Skills - You can mention specific languages, tools, or technologies you're proficient in.]
-
-🎓 *Education:* Matriculation from Oxford Education System, FSC from Punjab Group of Colleges.
-
-🛠 *Recent Projects:* [Briefly mention any recent projects you've worked on, showcasing your skills and interests.]
-
-🎯 *Hobby:* [Share a bit about your hobbies or interests outside the tech world. It could be anything from reading to sports.]
+👋About Me: I'm Talha Azhar, currently diving into the world of Computer Sciences at the University of South Wales. 🎓 Originally from the charming town of Pakpattan in Pakistan, my academic journey includes matriculation at the esteemed "Oxford Education System" from my hometown and FSC at the prestigious "Punjab Group of Colleges".💻 Currently on the academic grind, exploring the intricacies of computer sciences and embracing the challenges it offers.
+🚀What I'm Doing: Pursuing a degree in Computer Sciences at the University of South Wales and looking forward to explore algorithmic processes and the creation of software. I am dedicated to ongoing education and regularly participate in open-source projects to keep informed about the newest technological advancements. I am motivated by a sincere curiosity to create a significant influence in the always changing industry.🌍Background: Calling out from Pakpattan, Pakistan, with academic roots in top-notch institutions 🎓Education Matriculation from Oxford Education System, FSC from Punjab Group of Colleges.
+🔧Skill Set: With a strong foundation in computer science, I demonstrate expertise in developing creative solutions using cutiing-edge technologies.I honed my excellent communication and leadership abilities by mentoring college-level teams in assignments, science projects, and reports, so enhancing joint achievement.
+🛠Recent Projects: Effectively guided and inspired a team to exceed the predetermined yearly sales objectives in 2022 at AHL. By employing strategic planning and fostering efficient teamwork, we accomplished unparalleled accomplishment, demonstrating my adeptness in leadership and project management.
+🎯Hobby: I love to play cricket actually more than love.I am playing it for more than seven years even leaded the team in school and college. Also like gaming and reading science fiction books.
